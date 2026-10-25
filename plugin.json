@@ -1,0 +1,23 @@
+{
+  "name": "samskrift",
+  "displayName": "Samskrift",
+  "version": "1.0.0",
+  "description": "Write, compile and review LaTeX documents in Samskrift, the collaborative LaTeX editor: fix compile errors, add figures and tables, and catch up on what co-authors changed and commented.",
+  "author": {
+    "name": "Samskrift",
+    "url": "https://samskrift.com"
+  },
+  "homepage": "https://samskrift.com/connect",
+  "privacyPolicyUrl": "https://samskrift.com/privacy",
+  "license": "MIT",
+  "keywords": [
+    "latex",
+    "tex",
+    "writing",
+    "research",
+    "thesis",
+    "collaboration",
+    "pdf"
+  ],
+  "icon": ".claude-plugin/icon.png"
+}
